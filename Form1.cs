@@ -50,6 +50,7 @@ namespace Part_7_Assignment_PHILIP_GRAHAM
             lstHeroes.DataSource = null;
             lstHeroes.DataSource = heroes;
             lblStatus.Text = "Heroes Sorted";
+            
 
         }
 
